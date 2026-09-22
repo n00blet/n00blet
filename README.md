@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python. <br>Building reusable components to deal with millions of data in Cassandra and Postgres<br>for an Energy Trading Platform<br>
+I'm currently working on Python.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n00blet&theme=dark&hide_border=false)<br/>
